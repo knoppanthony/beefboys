@@ -1,0 +1,22 @@
+{
+    "short_name": "Beef",
+    "name": "Beef Boys",
+    "icons": [
+      {
+        "src": "/img/beef.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/img/beef.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "https://www.beefboys.club",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "https://www.beefboys.club",
+    "theme_color": "#3367D6"
+  }
+  
